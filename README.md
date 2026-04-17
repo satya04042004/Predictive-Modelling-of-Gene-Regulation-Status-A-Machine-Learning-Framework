@@ -3,6 +3,6 @@ Prostate cancer is one of the most commonly diagnosed cancers among men worldwid
 Machine learning enables the analysis of large-scale genomic data, including gene expression profiles obtained through RNA sequencing, to identify differentially expressed genes (DEGs) that act as biomarkers for disease detection and prognosis. Algorithms such as logistic regression, support vector machines, k-nearest neighbors, and random forests are effective in handling high-dimensional datasets and classifying disease states. This project focuses on building a machine learning framework for prostate cancer prediction, incorporating data preprocessing, feature engineering, model training, and evaluation using metrics like accuracy, precision, recall, and F1-score. By integrating machine learning with genomic analysis, the system aims to enhance early detection, support personalized treatment strategies, and contribute to data-driven healthcare and improved patient outcomes.
 
 
-                                                         System Architecture
+                                                     System Architecture
                                                   
 <p align = "center"><img width="512" height="605" alt="image" src="https://github.com/user-attachments/assets/49e703be-f550-4f27-8d51-034243528e07" /></p>
